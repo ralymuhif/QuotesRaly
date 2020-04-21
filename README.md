@@ -1,2 +1,2 @@
-# QuoteRaly
- Quotes To Live By
+# QuotesRaly
+Random Inspirational Quotes Generator (Quotes to live by)
