@@ -1,0 +1,57 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  clear: both;
+}
+
+.quote-text {
+  font-family: "Playball", cursive;
+  font-size: 32px;
+  padding: 30px;
+  transition: opacity 800ms ease-in-out;
+}
+
+.quote-author {
+  font-size: 20px;
+  color: #85c3fc;
+}
+
+.quote-container {
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #2191fb;
+  flex-wrap: wrap;
+  height: 100%;
+  justify-content: center;
+}
+
+section.main-section {
+  height: 100vh;
+  width: 100vw;
+  background: #2d2d2a;
+}
+
+.fixed-button {
+  position: fixed;
+  bottom: 18px;
+  left: 18px;
+  color: #848fa5;
+  font-size: 20px;
+}
+
+.fade {
+  opacity: 0;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+.next {
+  color: #848fa5;
+}
